@@ -10,7 +10,7 @@ module.exports = {
       database: 'db_treino',
       host: 'localhost',
       user: 'root',
-      password: 'JVvictor444@correia444'
+      password: 'senhabanco'
     },
     pool: {
       min: 2,
